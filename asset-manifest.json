@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DanielGalusz/to-do-list-react.git/static/css/main.6ea7b7b8.css",
-    "main.js": "/DanielGalusz/to-do-list-react.git/static/js/main.af0967eb.js",
-    "static/js/453.b20ed47d.chunk.js": "/DanielGalusz/to-do-list-react.git/static/js/453.b20ed47d.chunk.js",
-    "index.html": "/DanielGalusz/to-do-list-react.git/index.html",
-    "main.6ea7b7b8.css.map": "/DanielGalusz/to-do-list-react.git/static/css/main.6ea7b7b8.css.map",
-    "main.af0967eb.js.map": "/DanielGalusz/to-do-list-react.git/static/js/main.af0967eb.js.map",
-    "453.b20ed47d.chunk.js.map": "/DanielGalusz/to-do-list-react.git/static/js/453.b20ed47d.chunk.js.map"
+    "main.css": "/to-do-list-react/static/css/main.6ea7b7b8.css",
+    "main.js": "/to-do-list-react/static/js/main.baa3f46e.js",
+    "static/js/453.b20ed47d.chunk.js": "/to-do-list-react/static/js/453.b20ed47d.chunk.js",
+    "index.html": "/to-do-list-react/index.html",
+    "main.6ea7b7b8.css.map": "/to-do-list-react/static/css/main.6ea7b7b8.css.map",
+    "main.baa3f46e.js.map": "/to-do-list-react/static/js/main.baa3f46e.js.map",
+    "453.b20ed47d.chunk.js.map": "/to-do-list-react/static/js/453.b20ed47d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ea7b7b8.css",
-    "static/js/main.af0967eb.js"
+    "static/js/main.baa3f46e.js"
   ]
 }
